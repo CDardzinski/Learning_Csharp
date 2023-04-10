@@ -1,0 +1,11 @@
+D:\Elektronika\KOD\Visual_C_Sharp_nauka\Tony_Gaddis_rozdzial3\Cwiczenia\Owoce_Csharp_roz3_cw14\bin\Debug\Owoce_Csharp_roz3_cw14.exe.config
+D:\Elektronika\KOD\Visual_C_Sharp_nauka\Tony_Gaddis_rozdzial3\Cwiczenia\Owoce_Csharp_roz3_cw14\bin\Debug\Owoce_Csharp_roz3_cw14.exe
+D:\Elektronika\KOD\Visual_C_Sharp_nauka\Tony_Gaddis_rozdzial3\Cwiczenia\Owoce_Csharp_roz3_cw14\bin\Debug\Owoce_Csharp_roz3_cw14.pdb
+D:\Elektronika\KOD\Visual_C_Sharp_nauka\Tony_Gaddis_rozdzial3\Cwiczenia\Owoce_Csharp_roz3_cw14\obj\Debug\Owoce_Csharp_roz3_cw14.csproj.AssemblyReference.cache
+D:\Elektronika\KOD\Visual_C_Sharp_nauka\Tony_Gaddis_rozdzial3\Cwiczenia\Owoce_Csharp_roz3_cw14\obj\Debug\Owoce_Csharp_roz3_cw14.csproj.SuggestedBindingRedirects.cache
+D:\Elektronika\KOD\Visual_C_Sharp_nauka\Tony_Gaddis_rozdzial3\Cwiczenia\Owoce_Csharp_roz3_cw14\obj\Debug\Owoce_Csharp_roz3_cw14.Form1.resources
+D:\Elektronika\KOD\Visual_C_Sharp_nauka\Tony_Gaddis_rozdzial3\Cwiczenia\Owoce_Csharp_roz3_cw14\obj\Debug\Owoce_Csharp_roz3_cw14.Properties.Resources.resources
+D:\Elektronika\KOD\Visual_C_Sharp_nauka\Tony_Gaddis_rozdzial3\Cwiczenia\Owoce_Csharp_roz3_cw14\obj\Debug\Owoce_Csharp_roz3_cw14.csproj.GenerateResource.cache
+D:\Elektronika\KOD\Visual_C_Sharp_nauka\Tony_Gaddis_rozdzial3\Cwiczenia\Owoce_Csharp_roz3_cw14\obj\Debug\Owoce_Csharp_roz3_cw14.csproj.CoreCompileInputs.cache
+D:\Elektronika\KOD\Visual_C_Sharp_nauka\Tony_Gaddis_rozdzial3\Cwiczenia\Owoce_Csharp_roz3_cw14\obj\Debug\Owoce_Csharp_roz3_cw14.exe
+D:\Elektronika\KOD\Visual_C_Sharp_nauka\Tony_Gaddis_rozdzial3\Cwiczenia\Owoce_Csharp_roz3_cw14\obj\Debug\Owoce_Csharp_roz3_cw14.pdb
