@@ -1,0 +1,32 @@
+C:\Users\Robert\Desktop\Loan Qualifier\Loan Qualifier\bin\Debug\Loan Qualifier.exe.config
+C:\Users\Robert\Desktop\Loan Qualifier\Loan Qualifier\bin\Debug\Loan Qualifier.exe
+C:\Users\Robert\Desktop\Loan Qualifier\Loan Qualifier\bin\Debug\Loan Qualifier.pdb
+C:\Users\Robert\Desktop\Loan Qualifier\Loan Qualifier\obj\Debug\Loan Qualifier.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\Loan Qualifier\Loan Qualifier\obj\Debug\Loan_Qualifier.Form1.resources
+C:\Users\Robert\Desktop\Loan Qualifier\Loan Qualifier\obj\Debug\Loan_Qualifier.Properties.Resources.resources
+C:\Users\Robert\Desktop\Loan Qualifier\Loan Qualifier\obj\Debug\Loan Qualifier.csproj.GenerateResource.Cache
+C:\Users\Robert\Desktop\Loan Qualifier\Loan Qualifier\obj\Debug\Loan Qualifier.exe
+C:\Users\Robert\Desktop\Loan Qualifier\Loan Qualifier\obj\Debug\Loan Qualifier.pdb
+C:\Users\Robert\Desktop\Kody\Rozdzial04\Loan Qualifier\Loan Qualifier\bin\Debug\Loan Qualifier.exe.config
+C:\Users\Robert\Desktop\Kody\Rozdzial04\Loan Qualifier\Loan Qualifier\obj\Debug\Loan Qualifier.exe
+C:\Users\Robert\Desktop\Kody\Rozdzial04\Loan Qualifier\Loan Qualifier\obj\Debug\Loan Qualifier.pdb
+Z:\robert\Downloads\Kody Visual CSharp\Kody\Rozdzial04\Loan Qualifier\Loan Qualifier\bin\Debug\Loan Qualifier.exe.config
+Z:\robert\Downloads\Kody Visual CSharp\Kody\Rozdzial04\Loan Qualifier\Loan Qualifier\obj\Debug\Loan Qualifier.exe
+Z:\robert\Downloads\Kody Visual CSharp\Kody\Rozdzial04\Loan Qualifier\Loan Qualifier\obj\Debug\Loan Qualifier.pdb
+Z:\robert\Downloads\Kody Visual CSharp\Kody\Rozdzial04\Loan Qualifier\Loan Qualifier\bin\Debug\Loan Qualifier.exe
+Z:\robert\Downloads\Kody Visual CSharp\Kody\Rozdzial04\Loan Qualifier\Loan Qualifier\bin\Debug\Loan Qualifier.pdb
+Z:\robert\Downloads\Kody Visual CSharp\Kody\Rozdzial04\Loan Qualifier\Loan Qualifier\obj\Debug\Loan Qualifier.csprojResolveAssemblyReference.cache
+Z:\robert\Downloads\Kody Visual CSharp\Kody\Rozdzial04\Loan Qualifier\Loan Qualifier\obj\Debug\Loan_Qualifier.Form1.resources
+Z:\robert\Downloads\Kody Visual CSharp\Kody\Rozdzial04\Loan Qualifier\Loan Qualifier\obj\Debug\Loan_Qualifier.Properties.Resources.resources
+Z:\robert\Downloads\Kody Visual CSharp\Kody\Rozdzial04\Loan Qualifier\Loan Qualifier\obj\Debug\Loan Qualifier.csproj.GenerateResource.Cache
+D:\Elektronika\KOD\Visual_C_Sharp_nauka\Tony_Gaddis_rozdzial4\Przyklady\Owoce_Csharp_roz4_przyklad4_3\Loan Qualifier\Loan Qualifier\bin\Debug\Loan Qualifier.exe.config
+D:\Elektronika\KOD\Visual_C_Sharp_nauka\Tony_Gaddis_rozdzial4\Przyklady\Owoce_Csharp_roz4_przyklad4_3\Loan Qualifier\Loan Qualifier\bin\Debug\Loan Qualifier.exe
+D:\Elektronika\KOD\Visual_C_Sharp_nauka\Tony_Gaddis_rozdzial4\Przyklady\Owoce_Csharp_roz4_przyklad4_3\Loan Qualifier\Loan Qualifier\bin\Debug\Loan Qualifier.pdb
+D:\Elektronika\KOD\Visual_C_Sharp_nauka\Tony_Gaddis_rozdzial4\Przyklady\Owoce_Csharp_roz4_przyklad4_3\Loan Qualifier\Loan Qualifier\obj\Debug\Loan Qualifier.csproj.AssemblyReference.cache
+D:\Elektronika\KOD\Visual_C_Sharp_nauka\Tony_Gaddis_rozdzial4\Przyklady\Owoce_Csharp_roz4_przyklad4_3\Loan Qualifier\Loan Qualifier\obj\Debug\Loan Qualifier.csproj.SuggestedBindingRedirects.cache
+D:\Elektronika\KOD\Visual_C_Sharp_nauka\Tony_Gaddis_rozdzial4\Przyklady\Owoce_Csharp_roz4_przyklad4_3\Loan Qualifier\Loan Qualifier\obj\Debug\Loan_Qualifier.Form1.resources
+D:\Elektronika\KOD\Visual_C_Sharp_nauka\Tony_Gaddis_rozdzial4\Przyklady\Owoce_Csharp_roz4_przyklad4_3\Loan Qualifier\Loan Qualifier\obj\Debug\Loan_Qualifier.Properties.Resources.resources
+D:\Elektronika\KOD\Visual_C_Sharp_nauka\Tony_Gaddis_rozdzial4\Przyklady\Owoce_Csharp_roz4_przyklad4_3\Loan Qualifier\Loan Qualifier\obj\Debug\Loan Qualifier.csproj.GenerateResource.cache
+D:\Elektronika\KOD\Visual_C_Sharp_nauka\Tony_Gaddis_rozdzial4\Przyklady\Owoce_Csharp_roz4_przyklad4_3\Loan Qualifier\Loan Qualifier\obj\Debug\Loan Qualifier.csproj.CoreCompileInputs.cache
+D:\Elektronika\KOD\Visual_C_Sharp_nauka\Tony_Gaddis_rozdzial4\Przyklady\Owoce_Csharp_roz4_przyklad4_3\Loan Qualifier\Loan Qualifier\obj\Debug\Loan Qualifier.exe
+D:\Elektronika\KOD\Visual_C_Sharp_nauka\Tony_Gaddis_rozdzial4\Przyklady\Owoce_Csharp_roz4_przyklad4_3\Loan Qualifier\Loan Qualifier\obj\Debug\Loan Qualifier.pdb

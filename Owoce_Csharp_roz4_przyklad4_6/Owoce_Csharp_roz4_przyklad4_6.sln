@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Owoce_Csharp_roz4_przyklad4_6", "Owoce_Csharp_roz4_przyklad4_6.csproj", "{9698424B-4AAB-400D-924A-69490C08AB81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9698424B-4AAB-400D-924A-69490C08AB81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9698424B-4AAB-400D-924A-69490C08AB81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9698424B-4AAB-400D-924A-69490C08AB81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9698424B-4AAB-400D-924A-69490C08AB81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1001FCC9-098E-4E58-A3CE-45EB08B827BC}
+	EndGlobalSection
+EndGlobal
