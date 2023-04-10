@@ -1,0 +1,29 @@
+C:\Users\Robert\Desktop\Payroll with Overtime\Payroll with Overtime\bin\Debug\Payroll with Overtime.exe.config
+C:\Users\Robert\Desktop\Payroll with Overtime\Payroll with Overtime\bin\Debug\Payroll with Overtime.exe
+C:\Users\Robert\Desktop\Payroll with Overtime\Payroll with Overtime\bin\Debug\Payroll with Overtime.pdb
+C:\Users\Robert\Desktop\Payroll with Overtime\Payroll with Overtime\obj\Debug\Payroll with Overtime.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\Payroll with Overtime\Payroll with Overtime\obj\Debug\Payroll_with_Overtime.Form1.resources
+C:\Users\Robert\Desktop\Payroll with Overtime\Payroll with Overtime\obj\Debug\Payroll_with_Overtime.Properties.Resources.resources
+C:\Users\Robert\Desktop\Payroll with Overtime\Payroll with Overtime\obj\Debug\Payroll with Overtime.csproj.GenerateResource.Cache
+C:\Users\Robert\Desktop\Payroll with Overtime\Payroll with Overtime\obj\Debug\Payroll with Overtime.exe
+C:\Users\Robert\Desktop\Payroll with Overtime\Payroll with Overtime\obj\Debug\Payroll with Overtime.pdb
+Z:\robert\Downloads\Kody Visual CSharp\Kody\Rozdzial04\Payroll with Overtime\Payroll with Overtime\bin\Debug\Payroll with Overtime.exe.config
+Z:\robert\Downloads\Kody Visual CSharp\Kody\Rozdzial04\Payroll with Overtime\Payroll with Overtime\obj\Debug\Payroll with Overtime.exe
+Z:\robert\Downloads\Kody Visual CSharp\Kody\Rozdzial04\Payroll with Overtime\Payroll with Overtime\obj\Debug\Payroll with Overtime.pdb
+Z:\robert\Downloads\Kody Visual CSharp\Kody\Rozdzial04\Payroll with Overtime\Payroll with Overtime\bin\Debug\Payroll with Overtime.exe
+Z:\robert\Downloads\Kody Visual CSharp\Kody\Rozdzial04\Payroll with Overtime\Payroll with Overtime\bin\Debug\Payroll with Overtime.pdb
+Z:\robert\Downloads\Kody Visual CSharp\Kody\Rozdzial04\Payroll with Overtime\Payroll with Overtime\obj\Debug\Payroll with Overtime.csprojResolveAssemblyReference.cache
+Z:\robert\Downloads\Kody Visual CSharp\Kody\Rozdzial04\Payroll with Overtime\Payroll with Overtime\obj\Debug\Payroll_with_Overtime.Form1.resources
+Z:\robert\Downloads\Kody Visual CSharp\Kody\Rozdzial04\Payroll with Overtime\Payroll with Overtime\obj\Debug\Payroll_with_Overtime.Properties.Resources.resources
+Z:\robert\Downloads\Kody Visual CSharp\Kody\Rozdzial04\Payroll with Overtime\Payroll with Overtime\obj\Debug\Payroll with Overtime.csproj.GenerateResource.Cache
+D:\Elektronika\KOD\Visual_C_Sharp_nauka\Tony_Gaddis_rozdzial4\Przyklady\Owoce_Csharp_roz4_przyklad4_2\Payroll with Overtime\Payroll with Overtime\bin\Debug\Payroll with Overtime.exe.config
+D:\Elektronika\KOD\Visual_C_Sharp_nauka\Tony_Gaddis_rozdzial4\Przyklady\Owoce_Csharp_roz4_przyklad4_2\Payroll with Overtime\Payroll with Overtime\bin\Debug\Payroll with Overtime.exe
+D:\Elektronika\KOD\Visual_C_Sharp_nauka\Tony_Gaddis_rozdzial4\Przyklady\Owoce_Csharp_roz4_przyklad4_2\Payroll with Overtime\Payroll with Overtime\bin\Debug\Payroll with Overtime.pdb
+D:\Elektronika\KOD\Visual_C_Sharp_nauka\Tony_Gaddis_rozdzial4\Przyklady\Owoce_Csharp_roz4_przyklad4_2\Payroll with Overtime\Payroll with Overtime\obj\Debug\Payroll with Overtime.csproj.AssemblyReference.cache
+D:\Elektronika\KOD\Visual_C_Sharp_nauka\Tony_Gaddis_rozdzial4\Przyklady\Owoce_Csharp_roz4_przyklad4_2\Payroll with Overtime\Payroll with Overtime\obj\Debug\Payroll with Overtime.csproj.SuggestedBindingRedirects.cache
+D:\Elektronika\KOD\Visual_C_Sharp_nauka\Tony_Gaddis_rozdzial4\Przyklady\Owoce_Csharp_roz4_przyklad4_2\Payroll with Overtime\Payroll with Overtime\obj\Debug\Payroll_with_Overtime.Form1.resources
+D:\Elektronika\KOD\Visual_C_Sharp_nauka\Tony_Gaddis_rozdzial4\Przyklady\Owoce_Csharp_roz4_przyklad4_2\Payroll with Overtime\Payroll with Overtime\obj\Debug\Payroll_with_Overtime.Properties.Resources.resources
+D:\Elektronika\KOD\Visual_C_Sharp_nauka\Tony_Gaddis_rozdzial4\Przyklady\Owoce_Csharp_roz4_przyklad4_2\Payroll with Overtime\Payroll with Overtime\obj\Debug\Payroll with Overtime.csproj.GenerateResource.cache
+D:\Elektronika\KOD\Visual_C_Sharp_nauka\Tony_Gaddis_rozdzial4\Przyklady\Owoce_Csharp_roz4_przyklad4_2\Payroll with Overtime\Payroll with Overtime\obj\Debug\Payroll with Overtime.csproj.CoreCompileInputs.cache
+D:\Elektronika\KOD\Visual_C_Sharp_nauka\Tony_Gaddis_rozdzial4\Przyklady\Owoce_Csharp_roz4_przyklad4_2\Payroll with Overtime\Payroll with Overtime\obj\Debug\Payroll with Overtime.exe
+D:\Elektronika\KOD\Visual_C_Sharp_nauka\Tony_Gaddis_rozdzial4\Przyklady\Owoce_Csharp_roz4_przyklad4_2\Payroll with Overtime\Payroll with Overtime\obj\Debug\Payroll with Overtime.pdb

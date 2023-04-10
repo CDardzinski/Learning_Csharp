@@ -1,0 +1,29 @@
+C:\Users\Robert\Desktop\Test Score Average\Test Score Average\bin\Debug\Test Score Average.exe.config
+C:\Users\Robert\Desktop\Test Score Average\Test Score Average\bin\Debug\Test Score Average.exe
+C:\Users\Robert\Desktop\Test Score Average\Test Score Average\bin\Debug\Test Score Average.pdb
+C:\Users\Robert\Desktop\Test Score Average\Test Score Average\obj\Debug\Test Score Average.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\Test Score Average\Test Score Average\obj\Debug\Test_Score_Average.Form1.resources
+C:\Users\Robert\Desktop\Test Score Average\Test Score Average\obj\Debug\Test_Score_Average.Properties.Resources.resources
+C:\Users\Robert\Desktop\Test Score Average\Test Score Average\obj\Debug\Test Score Average.csproj.GenerateResource.Cache
+C:\Users\Robert\Desktop\Test Score Average\Test Score Average\obj\Debug\Test Score Average.exe
+C:\Users\Robert\Desktop\Test Score Average\Test Score Average\obj\Debug\Test Score Average.pdb
+Z:\robert\Downloads\Kody Visual CSharp\Kody\Rozdzial04\Test Score Average\Test Score Average\bin\Debug\Test Score Average.exe.config
+Z:\robert\Downloads\Kody Visual CSharp\Kody\Rozdzial04\Test Score Average\Test Score Average\obj\Debug\Test Score Average.exe
+Z:\robert\Downloads\Kody Visual CSharp\Kody\Rozdzial04\Test Score Average\Test Score Average\obj\Debug\Test Score Average.pdb
+Z:\robert\Downloads\Kody Visual CSharp\Kody\Rozdzial04\Test Score Average\Test Score Average\bin\Debug\Test Score Average.exe
+Z:\robert\Downloads\Kody Visual CSharp\Kody\Rozdzial04\Test Score Average\Test Score Average\bin\Debug\Test Score Average.pdb
+Z:\robert\Downloads\Kody Visual CSharp\Kody\Rozdzial04\Test Score Average\Test Score Average\obj\Debug\Test Score Average.csprojResolveAssemblyReference.cache
+Z:\robert\Downloads\Kody Visual CSharp\Kody\Rozdzial04\Test Score Average\Test Score Average\obj\Debug\Test_Score_Average.Form1.resources
+Z:\robert\Downloads\Kody Visual CSharp\Kody\Rozdzial04\Test Score Average\Test Score Average\obj\Debug\Test_Score_Average.Properties.Resources.resources
+Z:\robert\Downloads\Kody Visual CSharp\Kody\Rozdzial04\Test Score Average\Test Score Average\obj\Debug\Test Score Average.csproj.GenerateResource.Cache
+D:\Elektronika\KOD\Visual_C_Sharp_nauka\Przykłady_z_książki_Tony_Gaddis_Owoce_programowania\viczp2\Kody\Rozdzial04\Test Score Average\Test Score Average\bin\Debug\Test Score Average.exe.config
+D:\Elektronika\KOD\Visual_C_Sharp_nauka\Przykłady_z_książki_Tony_Gaddis_Owoce_programowania\viczp2\Kody\Rozdzial04\Test Score Average\Test Score Average\bin\Debug\Test Score Average.exe
+D:\Elektronika\KOD\Visual_C_Sharp_nauka\Przykłady_z_książki_Tony_Gaddis_Owoce_programowania\viczp2\Kody\Rozdzial04\Test Score Average\Test Score Average\bin\Debug\Test Score Average.pdb
+D:\Elektronika\KOD\Visual_C_Sharp_nauka\Przykłady_z_książki_Tony_Gaddis_Owoce_programowania\viczp2\Kody\Rozdzial04\Test Score Average\Test Score Average\obj\Debug\Test Score Average.csproj.AssemblyReference.cache
+D:\Elektronika\KOD\Visual_C_Sharp_nauka\Przykłady_z_książki_Tony_Gaddis_Owoce_programowania\viczp2\Kody\Rozdzial04\Test Score Average\Test Score Average\obj\Debug\Test Score Average.csproj.SuggestedBindingRedirects.cache
+D:\Elektronika\KOD\Visual_C_Sharp_nauka\Przykłady_z_książki_Tony_Gaddis_Owoce_programowania\viczp2\Kody\Rozdzial04\Test Score Average\Test Score Average\obj\Debug\Test_Score_Average.Form1.resources
+D:\Elektronika\KOD\Visual_C_Sharp_nauka\Przykłady_z_książki_Tony_Gaddis_Owoce_programowania\viczp2\Kody\Rozdzial04\Test Score Average\Test Score Average\obj\Debug\Test_Score_Average.Properties.Resources.resources
+D:\Elektronika\KOD\Visual_C_Sharp_nauka\Przykłady_z_książki_Tony_Gaddis_Owoce_programowania\viczp2\Kody\Rozdzial04\Test Score Average\Test Score Average\obj\Debug\Test Score Average.csproj.GenerateResource.cache
+D:\Elektronika\KOD\Visual_C_Sharp_nauka\Przykłady_z_książki_Tony_Gaddis_Owoce_programowania\viczp2\Kody\Rozdzial04\Test Score Average\Test Score Average\obj\Debug\Test Score Average.csproj.CoreCompileInputs.cache
+D:\Elektronika\KOD\Visual_C_Sharp_nauka\Przykłady_z_książki_Tony_Gaddis_Owoce_programowania\viczp2\Kody\Rozdzial04\Test Score Average\Test Score Average\obj\Debug\Test Score Average.exe
+D:\Elektronika\KOD\Visual_C_Sharp_nauka\Przykłady_z_książki_Tony_Gaddis_Owoce_programowania\viczp2\Kody\Rozdzial04\Test Score Average\Test Score Average\obj\Debug\Test Score Average.pdb
